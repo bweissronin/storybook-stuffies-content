@@ -1,0 +1,76 @@
+{
+  "character_id": "felix",
+  "version": "1.0.0",
+  "stories": [
+    {
+      "id": "felixes_first_day",
+      "title": "Felix's First Day",
+      "episode": 1,
+      "is_unlocked": true,
+      "outfit_id": "body_none",
+      "total_pages": 6,
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "In a beautiful forest where sunlight filtered through the trees, there lived a special little fox named Felix. A tiny little fox with a big heart! Today was Felix's first day exploring the forest all by himself.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/page-1.jpg"
+        },
+        {
+          "page_number": 2,
+          "text": "Felix's tummy did a little flip-flop. \"What if I get lost?\" he wondered. His unicorn horn glowed softly when he felt nervous. Felix sat down and took a deep breath, just like Mama taught him.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/page-2.jpg"
+        },
+        {
+          "page_number": 3,
+          "text": "\"I can do this!\" Felix said out loud. He stood up on his little paws and noticed something wonderful—his horn began to glow brighter! Maybe it was telling him he WAS brave enough.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/page-3.jpg"
+        },
+        {
+          "page_number": 4,
+          "text": "As Felix walked down the winding path, he met a tiny blue butterfly who seemed lost. \"Hello, little friend,\" Felix said gently. \"Are you looking for something?\"",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/page-4.jpg"
+        },
+        {
+          "page_number": 5,
+          "text": "The butterfly fluttered near Felix's horn. His horn glowed and pointed toward a field of flowers. Felix smiled. \"Follow me! I think I can help you!\" Together, they walked to the most beautiful flower meadow.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/page-5.jpg"
+        },
+        {
+          "page_number": 6,
+          "text": "\"Thank you, Felix!\" chirped the butterfly before dancing away with its family. Felix's heart felt warm and fuzzy. He wasn't scared anymore—he had helped a friend! And he discovered something magical: when you're kind and brave, you're never truly alone.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/page-6.jpg"
+        }
+      ]
+    },
+    {
+      "id": "rainy_day_adventure",
+      "title": "Rainy Day Adventure",
+      "episode": 2,
+      "is_unlocked": true,
+      "outfit_id": "body_raincoat_01",
+      "total_pages": 1,
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "Coming soon! Felix's rainy day adventure awaits...",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/page-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bedtime_story",
+      "title": "Bedtime Story",
+      "episode": 3,
+      "is_unlocked": true,
+      "outfit_id": "body_jammies_01",
+      "total_pages": 1,
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "Coming soon! Felix's bedtime story awaits...",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/page-1.jpg"
+        }
+      ]
+    }
+  ]
+}

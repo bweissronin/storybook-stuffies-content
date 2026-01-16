@@ -1,0 +1,52 @@
+{
+  "character_id": "leo",
+  "version": "1.0.0",
+  "outfits": [
+    {
+      "id": "body_raincoat_01",
+      "name": "Raincoat",
+      "category": "body",
+      "rarity": "epic",
+      "description": "Colorful raincoat for rainy days",
+      "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/raincoat/button.png",
+      "layers": {
+        "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/raincoat/body.png",
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/raincoat/head.png",
+        "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/raincoat/paw-left.png",
+        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/raincoat/paw-right.png"
+      }
+    },
+    {
+      "id": "body_jammies_01",
+      "name": "Jammies",
+      "category": "body",
+      "rarity": "rare",
+      "description": "Cozy jammies for bedtime",
+      "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/jammies/button.png",
+      "layers": {
+        "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/jammies/body.png",
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/jammies/head.png",
+        "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/jammies/paw-left.png",
+        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/jammies/paw-right.png"
+      },
+      "environment": {
+        "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/jammies/background.png",
+        "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/jammies/foreground.png"
+      }
+    },
+    {
+      "id": "body_prince_01",
+      "name": "Prince",
+      "category": "body",
+      "rarity": "epic",
+      "description": "Regal prince outfit fit for royalty",
+      "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/prince/button.png",
+      "layers": {
+        "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/prince/body.png",
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/prince/head.png",
+        "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/prince/paw-left.png",
+        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/outfits/prince/paw-right.png"
+      }
+    }
+  ]
+}

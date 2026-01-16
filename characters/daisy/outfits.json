@@ -1,0 +1,22 @@
+{
+  "character_id": "daisy",
+  "version": "1.0.0",
+  "outfits": [
+    {
+      "id": "daisy_body_garden_01",
+      "name": "Garden",
+      "category": "body",
+      "rarity": "rare",
+      "description": "Beautiful garden outfit for Daisy - elegant dress without paws",
+      "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/button.png",
+      "layers": {
+        "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/body.png",
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/head.png"
+      },
+      "environment": {
+        "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/background.png",
+        "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/foreground.png"
+      }
+    }
+  ]
+}

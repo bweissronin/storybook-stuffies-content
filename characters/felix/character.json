@@ -1,0 +1,62 @@
+{
+  "id": "felix",
+  "name": "Felix",
+  "display_name": "Felix",
+  "version": "1.0.0",
+  "sprite_prefix": "fox",
+  "description": "A brave fox with a heart of gold",
+  "layers": [
+    {
+      "name": "tail",
+      "z_position": -2,
+      "image": "fox-tail.png",
+      "scale": 0.9
+    },
+    {
+      "name": "body",
+      "z_position": 0,
+      "image": "fox-body.png",
+      "scale": 0.9
+    },
+    {
+      "name": "rightPaw",
+      "z_position": 1,
+      "image": "fox-paw-right.png",
+      "scale": 0.9
+    },
+    {
+      "name": "leftPaw",
+      "z_position": 2,
+      "image": "fox-paw-left.png",
+      "scale": 0.9
+    },
+    {
+      "name": "head",
+      "z_position": 3,
+      "image": "fox-head.png",
+      "scale": 0.9
+    }
+  ],
+  "expressions": {
+    "eyes": ["happy", "sad", "blink"],
+    "mouth": ["happy", "sad"]
+  },
+  "environments": [
+    {
+      "id": "default",
+      "name": "Magical Forest",
+      "background": "background-fox-default.png",
+      "foreground": "foreground-fox-default.png"
+    }
+  ],
+  "animations": {
+    "idle_breathing": {
+      "duration": 2.0,
+      "scale_range": [1.0, 1.02]
+    },
+    "tap_response": {
+      "head_shake": 0.15,
+      "paw_stomp": true
+    }
+  }
+}

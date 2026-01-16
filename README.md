@@ -51,6 +51,6 @@ This repository hosts downloadable content for the Storybook Stuffies iOS app.
 ## GitHub Pages
 
 Content is automatically served via GitHub Pages at:
-`https://YOUR_USERNAME.github.io/storybook-stuffies-content/`
+`https://bweissronin.github.io/storybook-stuffies-content/`
 
 Changes pushed to `main` branch are live within minutes.
