@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-01-15T12:00:00Z",
+  "min_app_version": "1.0.0",
+  "characters": [
+    {
+      "id": "leo",
+      "name": "Leo",
+      "display_name": "Leo",
+      "version": "1.0.0",
+      "is_built_in": true,
+      "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/character.json",
+      "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/stories.json",
+      "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/thumbnail.png",
+      "requires_purchase": false,
+      "is_free": true
+    },
+    {
+      "id": "daisy",
+      "name": "Daisy",
+      "display_name": "Daisy",
+      "version": "1.0.0",
+      "is_built_in": true,
+      "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/character.json",
+      "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/stories.json",
+      "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/thumbnail.png",
+      "requires_purchase": false,
+      "is_free": true
+    }
+  ]
+}

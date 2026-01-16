@@ -1,0 +1,62 @@
+{
+  "id": "leo",
+  "name": "Leo",
+  "display_name": "Leo",
+  "version": "1.0.0",
+  "sprite_prefix": "lioncorn",
+  "description": "A brave lionicorn with a heart of gold",
+  "layers": [
+    {
+      "name": "tail",
+      "z_position": -2,
+      "image": "lioncorn-tail.png",
+      "scale": 0.9
+    },
+    {
+      "name": "body",
+      "z_position": 0,
+      "image": "lioncorn-body.png",
+      "scale": 0.9
+    },
+    {
+      "name": "rightPaw",
+      "z_position": 1,
+      "image": "lioncorn-paw-right.png",
+      "scale": 0.9
+    },
+    {
+      "name": "leftPaw",
+      "z_position": 2,
+      "image": "lioncorn-paw-left.png",
+      "scale": 0.9
+    },
+    {
+      "name": "head",
+      "z_position": 3,
+      "image": "lioncorn-head.png",
+      "scale": 0.9
+    }
+  ],
+  "expressions": {
+    "eyes": ["happy", "sad", "blink"],
+    "mouth": ["happy", "sad"]
+  },
+  "environments": [
+    {
+      "id": "default",
+      "name": "Magical Forest",
+      "background": "background-leo-default.png",
+      "foreground": "foreground-leo-default.png"
+    }
+  ],
+  "animations": {
+    "idle_breathing": {
+      "duration": 2.0,
+      "scale_range": [1.0, 1.02]
+    },
+    "tap_response": {
+      "head_shake": 0.15,
+      "paw_stomp": true
+    }
+  }
+}

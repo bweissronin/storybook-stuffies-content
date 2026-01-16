@@ -1,0 +1,62 @@
+{
+  "id": "daisy",
+  "name": "Daisy",
+  "display_name": "Daisy",
+  "version": "1.0.0",
+  "sprite_prefix": "daisydeer",
+  "description": "A gentle deer who loves flowers and nature",
+  "layers": [
+    {
+      "name": "body",
+      "z_position": 0,
+      "image": "daisydeer-body.png",
+      "scale": 0.9
+    },
+    {
+      "name": "rightPaw",
+      "z_position": 1,
+      "image": "daisydeer-paw-right.png",
+      "scale": 0.9
+    },
+    {
+      "name": "leftPaw",
+      "z_position": 2,
+      "image": "daisydeer-paw-left.png",
+      "scale": 0.9
+    },
+    {
+      "name": "head",
+      "z_position": 3,
+      "image": "daisydeer-head.png",
+      "scale": 0.9
+    }
+  ],
+  "expressions": {
+    "eyes": ["happy", "sad", "blink"],
+    "mouth": ["happy", "sad"]
+  },
+  "environments": [
+    {
+      "id": "default",
+      "name": "Meadow",
+      "background": "background-daisy-default.png",
+      "foreground": "foreground-daisy-default.png"
+    },
+    {
+      "id": "garden",
+      "name": "Garden",
+      "background": "background-daisy-garden.png",
+      "foreground": "foreground-daisy-garden.png"
+    }
+  ],
+  "animations": {
+    "idle_breathing": {
+      "duration": 2.0,
+      "scale_range": [1.0, 1.02]
+    },
+    "tap_response": {
+      "head_shake": 0.15,
+      "paw_stomp": true
+    }
+  }
+}
