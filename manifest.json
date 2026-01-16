@@ -1,5 +1,5 @@
 {
-"version": "1.0.8",
+"version": "1.0.9",
   "last_updated": "2026-01-16T16:55:00Z",
   "min_app_version": "1.0.1",
   "characters": [
@@ -7,7 +7,7 @@
       "id": "felix",
       "name": "Felix",
       "display_name": "Felix",
-    "version": "1.0.8",
+    "version": "1.0.9",
       "is_built_in": true,
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/stories.json",
@@ -19,7 +19,7 @@
       "id": "daisy",
       "name": "Daisy",
       "display_name": "Daisy",
-    "version": "1.0.8",
+    "version": "1.0.9",
       "is_built_in": true,
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/stories.json",

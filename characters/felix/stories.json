@@ -1,6 +1,6 @@
 {
   "character_id": "felix",
-"version": "1.0.8",
+"version": "1.0.9",
   "stories": [
     {
       "id": "felixes_first_day",
@@ -13,32 +13,32 @@
         {
           "page_number": 1,
           "text": "In a beautiful forest where sunlight filtered through the trees, there lived a special little fox named Felix. A tiny little fox with a big heart! Today was Felix's first day exploring the forest all by himself.",
-          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/page-1.jpg"
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/Page-1.jpg"
         },
         {
           "page_number": 2,
           "text": "Felix's tummy did a little flip-flop. \"What if I get lost?\" he wondered. His unicorn horn glowed softly when he felt nervous. Felix sat down and took a deep breath, just like Mama taught him.",
-          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/page-2.jpg"
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/Page-2.jpg"
         },
         {
           "page_number": 3,
           "text": "\"I can do this!\" Felix said out loud. He stood up on his little paws and noticed something wonderful—his horn began to glow brighter! Maybe it was telling him he WAS brave enough.",
-          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/page-3.jpg"
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/Page-3.jpg"
         },
         {
           "page_number": 4,
           "text": "As Felix walked down the winding path, he met a tiny blue butterfly who seemed lost. \"Hello, little friend,\" Felix said gently. \"Are you looking for something?\"",
-          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/page-4.jpg"
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/Page-4.jpg"
         },
         {
           "page_number": 5,
           "text": "The butterfly fluttered near Felix's horn. His horn glowed and pointed toward a field of flowers. Felix smiled. \"Follow me! I think I can help you!\" Together, they walked to the most beautiful flower meadow.",
-          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/page-5.jpg"
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/Page-5.jpg"
         },
         {
           "page_number": 6,
           "text": "\"Thank you, Felix!\" chirped the butterfly before dancing away with its family. Felix's heart felt warm and fuzzy. He wasn't scared anymore—he had helped a friend! And he discovered something magical: when you're kind and brave, you're never truly alone.",
-          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/page-6.jpg"
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/Page-6.jpg"
         }
       ]
     },
@@ -53,7 +53,7 @@
         {
           "page_number": 1,
           "text": "Coming soon! Felix's rainy day adventure awaits...",
-          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/page-1.jpg"
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/Page-1.jpg"
         }
       ]
     },
@@ -68,7 +68,7 @@
         {
           "page_number": 1,
           "text": "Coming soon! Felix's bedtime story awaits...",
-          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/3/page-1.jpg"
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/3/Page-1.jpg"
         }
       ]
     }
