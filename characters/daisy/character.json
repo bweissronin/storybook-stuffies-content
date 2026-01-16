@@ -10,25 +10,25 @@
     {
       "name": "body",
       "z_position": 0,
-      "image": "daisydeer-body.png",
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/daisydeer-body.png",
       "scale": 0.9
     },
     {
       "name": "rightPaw",
       "z_position": 1,
-      "image": "daisydeer-paw-right.png",
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/daisydeer-paw-right.png",
       "scale": 0.9
     },
     {
       "name": "leftPaw",
       "z_position": 2,
-      "image": "daisydeer-paw-left.png",
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/daisydeer-paw-left.png",
       "scale": 0.9
     },
     {
       "name": "head",
       "z_position": 3,
-      "image": "daisydeer-head.png",
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/daisydeer-head.png",
       "scale": 0.9
     }
   ],
@@ -47,14 +47,14 @@
     {
       "id": "default",
       "name": "Meadow",
-      "background": "background-daisy-default.png",
-      "foreground": "foreground-daisy-default.png"
+      "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/background-daisy-default.png",
+      "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/foreground-daisy-default.png"
     },
     {
       "id": "garden",
       "name": "Garden",
-      "background": "background-daisy-garden.png",
-      "foreground": "foreground-daisy-garden.png"
+      "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/background-daisy-garden.png",
+      "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/foreground-daisy-garden.png"
     }
   ],
   "animations": {

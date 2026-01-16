@@ -5,48 +5,56 @@
   "version": "1.0.0",
   "sprite_prefix": "fox",
   "description": "A brave fox with a heart of gold",
+  "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/outfits.json",
   "layers": [
     {
       "name": "tail",
       "z_position": -2,
-      "image": "fox-tail.png",
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/fox-tail.png",
       "scale": 0.9
     },
     {
       "name": "body",
       "z_position": 0,
-      "image": "fox-body.png",
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/fox-body.png",
       "scale": 0.9
     },
     {
       "name": "rightPaw",
       "z_position": 1,
-      "image": "fox-paw-right.png",
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/fox-paw-right.png",
       "scale": 0.9
     },
     {
       "name": "leftPaw",
       "z_position": 2,
-      "image": "fox-paw-left.png",
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/fox-paw-left.png",
       "scale": 0.9
     },
     {
       "name": "head",
       "z_position": 3,
-      "image": "fox-head.png",
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/fox-head.png",
       "scale": 0.9
     }
   ],
   "expressions": {
-    "eyes": ["happy", "sad", "blink"],
-    "mouth": ["happy", "sad"]
+    "eyes": {
+      "happy": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/expressions/eyes-happy.png",
+      "sad": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/expressions/eyes-sad.png",
+      "blink": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/expressions/eyes-blink.png"
+    },
+    "mouth": {
+      "happy": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/expressions/mouth-happy.png",
+      "sad": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/expressions/mouth-sad.png"
+    }
   },
   "environments": [
     {
       "id": "default",
       "name": "Magical Forest",
-      "background": "background-fox-default.png",
-      "foreground": "foreground-fox-default.png"
+      "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/background-fox-default.png",
+      "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/foreground-fox-default.png"
     }
   ],
   "animations": {
