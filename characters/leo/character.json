@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "sprite_prefix": "lioncorn",
   "description": "A brave lionicorn with a heart of gold",
+  "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/outfits.json",
   "layers": [
     {
       "name": "tail",
@@ -38,8 +39,15 @@
     }
   ],
   "expressions": {
-    "eyes": ["happy", "sad", "blink"],
-    "mouth": ["happy", "sad"]
+    "eyes": {
+      "happy": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/expressions/eyes-happy.png",
+      "sad": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/expressions/eyes-sad.png",
+      "blink": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/expressions/eyes-blink.png"
+    },
+    "mouth": {
+      "happy": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/expressions/mouth-happy.png",
+      "sad": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/assets/expressions/mouth-sad.png"
+    }
   },
   "environments": [
     {

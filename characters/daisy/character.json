@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "sprite_prefix": "daisydeer",
   "description": "A gentle deer who loves flowers and nature",
+  "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/outfits.json",
   "layers": [
     {
       "name": "body",
@@ -32,8 +33,15 @@
     }
   ],
   "expressions": {
-    "eyes": ["happy", "sad", "blink"],
-    "mouth": ["happy", "sad"]
+    "eyes": {
+      "happy": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/expressions/eyes-happy.png",
+      "sad": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/expressions/eyes-sad.png",
+      "blink": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/expressions/eyes-blink.png"
+    },
+    "mouth": {
+      "happy": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/expressions/mouth-happy.png",
+      "sad": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/expressions/mouth-sad.png"
+    }
   },
   "environments": [
     {
