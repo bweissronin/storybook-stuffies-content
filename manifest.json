@@ -7,7 +7,7 @@
       "id": "felix",
       "name": "Felix",
       "display_name": "Felix",
-      "version": "1.0.0",
+      "version": "1.0.5",
       "is_built_in": true,
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/stories.json",
