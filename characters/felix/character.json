@@ -3,41 +3,10 @@
   "name": "Felix",
   "display_name": "Felix",
   "version": "1.0.0",
-  "sprite_prefix": "fox",
+  "sprite_prefix": "felix",
   "description": "A brave fox with a heart of gold",
   "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/outfits.json",
-  "layers": [
-    {
-      "name": "tail",
-      "z_position": -2,
-      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/fox-tail.png",
-      "scale": 0.9
-    },
-    {
-      "name": "body",
-      "z_position": 0,
-      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/fox-body.png",
-      "scale": 0.9
-    },
-    {
-      "name": "rightPaw",
-      "z_position": 1,
-      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/fox-paw-right.png",
-      "scale": 0.9
-    },
-    {
-      "name": "leftPaw",
-      "z_position": 2,
-      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/fox-paw-left.png",
-      "scale": 0.9
-    },
-    {
-      "name": "head",
-      "z_position": 3,
-      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/fox-head.png",
-      "scale": 0.9
-    }
-  ],
+  "has_tail": true,
   "expressions": {
     "eyes": {
       "happy": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/expressions/eyes-happy.png",
@@ -49,14 +18,6 @@
       "sad": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/expressions/mouth-sad.png"
     }
   },
-  "environments": [
-    {
-      "id": "default",
-      "name": "Magical Forest",
-      "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/background-fox-default.png",
-      "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/foreground-fox-default.png"
-    }
-  ],
   "animations": {
     "idle_breathing": {
       "duration": 2.0,

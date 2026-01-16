@@ -3,35 +3,10 @@
   "name": "Daisy",
   "display_name": "Daisy",
   "version": "1.0.0",
-  "sprite_prefix": "daisydeer",
+  "sprite_prefix": "daisy",
   "description": "A gentle deer who loves flowers and nature",
   "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/outfits.json",
-  "layers": [
-    {
-      "name": "body",
-      "z_position": 0,
-      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/daisydeer-body.png",
-      "scale": 0.9
-    },
-    {
-      "name": "rightPaw",
-      "z_position": 1,
-      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/daisydeer-paw-right.png",
-      "scale": 0.9
-    },
-    {
-      "name": "leftPaw",
-      "z_position": 2,
-      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/daisydeer-paw-left.png",
-      "scale": 0.9
-    },
-    {
-      "name": "head",
-      "z_position": 3,
-      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/daisydeer-head.png",
-      "scale": 0.9
-    }
-  ],
+  "has_tail": false,
   "expressions": {
     "eyes": {
       "happy": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/expressions/eyes-happy.png",
@@ -43,20 +18,6 @@
       "sad": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/expressions/mouth-sad.png"
     }
   },
-  "environments": [
-    {
-      "id": "default",
-      "name": "Meadow",
-      "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/background-daisy-default.png",
-      "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/foreground-daisy-default.png"
-    },
-    {
-      "id": "garden",
-      "name": "Garden",
-      "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/background-daisy-garden.png",
-      "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/foreground-daisy-garden.png"
-    }
-  ],
   "animations": {
     "idle_breathing": {
       "duration": 2.0,
