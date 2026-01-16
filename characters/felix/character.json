@@ -6,7 +6,46 @@
   "sprite_prefix": "felix",
   "description": "A brave fox with a heart of gold",
   "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/outfits.json",
-  "has_tail": true,
+  "layers": [
+    {
+      "name": "tail",
+      "z_position": 1.0,
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/tail.png",
+      "scale": 0.9
+    },
+    {
+      "name": "body",
+      "z_position": 2.0,
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/body.png",
+      "scale": 0.9
+    },
+    {
+      "name": "leftPaw",
+      "z_position": 2.5,
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/paw-left.png",
+      "scale": 0.9
+    },
+    {
+      "name": "rightPaw",
+      "z_position": 2.5,
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/paw-right.png",
+      "scale": 0.9
+    },
+    {
+      "name": "head",
+      "z_position": 3.0,
+      "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/head.png",
+      "scale": 0.9
+    }
+  ],
+  "environments": [
+    {
+      "id": "default",
+      "name": "Default",
+      "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/environments/default/background.png",
+      "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/environments/default/foreground.png"
+    }
+  ],
   "expressions": {
     "eyes": {
       "happy": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/expressions/eyes-happy.png",
