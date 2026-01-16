@@ -2,7 +2,7 @@
   "id": "daisy",
   "name": "Daisy",
   "display_name": "Daisy",
-  "version": "1.0.6",
+ "version": "1.0.7",
   "sprite_prefix": "daisy",
   "description": "A gentle deer who loves flowers and nature",
   "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/outfits.json",

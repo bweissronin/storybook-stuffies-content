@@ -2,7 +2,7 @@
   "id": "felix",
   "name": "Felix",
   "display_name": "Felix",
-  "version": "1.0.6",
+ "version": "1.0.7",
   "sprite_prefix": "felix",
   "description": "A brave fox with a heart of gold",
   "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/outfits.json",
