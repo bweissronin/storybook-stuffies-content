@@ -41,36 +41,6 @@
           "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/Page-6.jpg"
         }
       ]
-    },
-    {
-      "id": "rainy_day_adventure",
-      "title": "Rainy Day Adventure",
-      "episode": 2,
-      "is_unlocked": true,
-      "outfit_id": "body_raincoat_01",
-      "total_pages": 1,
-      "pages": [
-        {
-          "page_number": 1,
-          "text": "Coming soon! Felix's rainy day adventure awaits...",
-          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/Page-1.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bedtime_story",
-      "title": "Bedtime Story",
-      "episode": 3,
-      "is_unlocked": true,
-      "outfit_id": "body_jammies_01",
-      "total_pages": 1,
-      "pages": [
-        {
-          "page_number": 1,
-          "text": "Coming soon! Felix's bedtime story awaits...",
-          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/3/Page-1.jpg"
-        }
-      ]
     }
   ]
 }
