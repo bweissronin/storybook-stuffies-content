@@ -2,7 +2,7 @@
   "id": "leo",
   "name": "Leo",
   "display_name": "Leo",
- "version": "1.0.7",
+"version": "1.0.8",
   "sprite_prefix": "lioncorn",
   "description": "A brave lionicorn with a heart of gold",
   "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/leo/outfits.json",
