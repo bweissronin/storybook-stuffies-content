@@ -1,6 +1,6 @@
 {
   "character_id": "felix",
-"version": "1.0.10",
+"version": "1.0.11",
   "stories": [
     {
       "id": "felixes_first_day",
@@ -67,7 +67,7 @@
         },
         {
           "page_number": 4,
-          "text": "hen Felix saw something amazing - when the sun peeked through the clouds, a beautiful rainbow appeared! It arched across the forest in wonderful colors.",
+          "text": "Then Felix saw something amazing - when the sun peeked through the clouds, a beautiful rainbow appeared! It arched across the forest in wonderful colors.",
           "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/Page-4.jpg"
         },
         {
