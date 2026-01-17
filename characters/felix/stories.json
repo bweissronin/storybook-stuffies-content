@@ -1,6 +1,6 @@
 {
   "character_id": "felix",
-"version": "1.0.9",
+"version": "1.0.10",
   "stories": [
     {
       "id": "felixes_first_day",
@@ -39,6 +39,46 @@
           "page_number": 6,
           "text": "\"Thank you, Felix!\" chirped the butterfly before dancing away with its family. Felix's heart felt warm and fuzzy. He wasn't scared anymore—he had helped a friend! And he discovered something magical: when you're kind and brave, you're never truly alone.",
           "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/1/Page-6.jpg"
+        }
+      ]
+    },
+    {
+      "id": "felixes_rainy_day",
+      "title": "Felix's Rainy Day Fun",
+      "episode": 2,
+      "is_unlocked": true,
+      "outfit_id": "body_raincoat_01",
+      "total_pages": 6,
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "Dark clouds filled the sky and rain began to fall. Felix put on his bright yellow raincoat. \"I wonder what adventures the rain will bring?\" he said curiously.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/Page-1.jpg"
+        },
+        {
+          "page_number": 2,
+          "text": "Felix walked into the forest as raindrops pattered gently on his hood. Pitter-patter, pitter-patter! The rain made a peaceful song on the leaves above.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/Page-2.jpg"
+        },
+        {
+          "page_number": 3,
+          "text": "Felix found something magical! A friendly caterpillar was floating in a curled leaf like a tiny boat. \"Hello, little caterpillar!\" said Felix. \"What a clever boat you have!\" The caterpillar wiggled happily at his friend.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/Page-3.jpg"
+        },
+        {
+          "page_number": 4,
+          "text": "hen Felix saw something amazing - when the sun peeked through the clouds, a beautiful rainbow appeared! It arched across the forest in wonderful colors.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/Page-4.jpg"
+        },
+        {
+          "page_number": 5,
+          "text": "Felix splashed in the puddles - splash! The water made ripples and sparkles. \"Rain makes everything shiny and new!\" Felix laughed with joy.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/Page-5.jpg"
+        },
+        {
+          "page_number": 6,
+          "text": "As the rain stopped, everything sparkled with raindrops. Felix smiled at the fresh, clean forest. \"Rainy days are special too,\" he said. \"They bring rainbows, puddles, and adventures!\"",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/Page-6.jpg"
         }
       ]
     }
