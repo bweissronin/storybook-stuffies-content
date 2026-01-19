@@ -3,7 +3,7 @@
 "version": "1.0.19",
   "outfits": [
     {
-      "id": "daisy_body_none_01",
+      "id": "body_none_01",
       "name": "None",
       "category": "body",
       "rarity": "common",
@@ -17,7 +17,7 @@
       }
     },
     {
-      "id": "daisy_body_garden_01",
+      "id": "body_garden_01",
       "name": "Garden",
       "category": "body",
       "rarity": "rare",
