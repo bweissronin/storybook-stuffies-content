@@ -29,6 +29,7 @@
       "description": "Colorful raincoat for rainy days",
       "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/raincoat/button.png",
       "layers": {
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/raincoat/tail.png",
         "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/raincoat/body.png",
         "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/raincoat/head.png",
         "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/raincoat/paw-left.png",
@@ -47,6 +48,7 @@
       "description": "Cozy jammies for bedtime",
       "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/jammies/button.png",
       "layers": {
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/jammies/tail.png",
         "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/jammies/body.png",
         "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/jammies/head.png",
         "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/jammies/paw-left.png",
@@ -65,6 +67,7 @@
       "description": "Regal prince outfit fit for royalty",
       "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/prince/button.png",
       "layers": {
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/prince/tail.png",
         "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/prince/body.png",
         "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/prince/head.png",
         "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/prince/paw-left.png",

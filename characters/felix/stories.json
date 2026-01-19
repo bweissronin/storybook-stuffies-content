@@ -1,6 +1,6 @@
 {
   "character_id": "felix",
-"version": "1.0.20",
+"version": "1.0.21",
   "stories": [
     {
       "id": "felixes_first_day",
@@ -86,7 +86,7 @@
       "id": "felixes_nighttime",
       "title": "Felix and the Starry Sky",
       "episode": 3,
-      "is_unlocked": false,
+      "is_unlocked": true,
       "outfit_id": "body_jammies_01",
       "total_pages": 6,
       "pages": [
