@@ -1,7 +1,21 @@
 {
   "character_id": "daisy",
-"version": "1.0.9",
+"version": "1.0.19",
   "outfits": [
+    {
+      "id": "daisy_body_none_01",
+      "name": "None",
+      "category": "body",
+      "rarity": "common",
+      "description": "",
+      "layers": {
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/tail.png",
+        "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/body.png",
+        "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/paw-left.png",
+        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/paw-right.png",
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/head.png"
+      }
+    },
     {
       "id": "daisy_body_garden_01",
       "name": "Garden",
@@ -10,8 +24,11 @@
       "description": "Beautiful garden outfit for Daisy - elegant dress without paws",
       "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/button.png",
       "layers": {
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/tail.png",
         "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/body.png",
-        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/head.png"
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/head.png",
+        "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/paw-left.png",
+        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/paw-right.png"
       },
       "environment": {
         "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/background.png",
