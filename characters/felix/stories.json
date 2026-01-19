@@ -1,6 +1,6 @@
 {
   "character_id": "felix",
-"version": "1.0.15",
+"version": "1.0.16",
   "stories": [
     {
       "id": "felixes_first_day",
@@ -79,6 +79,46 @@
           "page_number": 6,
           "text": "As the rain stopped, everything sparkled with raindrops. Felix smiled at the fresh, clean forest. \"Rainy days are special too,\" he said. \"They bring rainbows, puddles, and adventures!\"",
           "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/2/Page-6.jpg"
+        }
+      ]
+    },
+    {
+      "id": "felixes_nighttime",
+      "title": "Felix and the Starry Sky",
+      "episode": 3,
+      "is_unlocked": false,
+      "outfit_id": "body_jammies_01",
+      "total_pages": 6,
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "The sun was setting and it was almost bedtime. Felix put on his cozy star-patterned pajamas. \"But I'm not sleepy yet,\" he said, looking out at the darkening sky.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/3/Page-1.jpg"
+        },
+        {
+          "page_number": 2,
+          "text": "Felix walked into the evening forest carefully. The shadows were getting longer and everything looked different. \"It feels a little spooky,\" Felix whispered. But he kept going.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/3/Page-2.jpg"
+        },
+        {
+          "page_number": 3,
+          "text": "Then Felix heard a gentle hoot. A friendly owl sat on a branch above him. \"Hello, Felix! The nighttime forest is wonderful. Would you like to see?\" asked Ollie the Owl.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/3/Page-3.jpg"
+        },
+        {
+          "page_number": 4,
+          "text": "Ollie showed Felix the fireflies dancing between the trees. They glowed like tiny golden stars! \"They're beautiful!\" said Felix. The forest didn't seem scary anymore.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/3/Page-4.jpg"
+        },
+        {
+          "page_number": 5,
+          "text": "Next, Ollie pointed to the sky. Felix looked up and gasped! Thousands of stars sparkled above like diamonds. \"I never knew nighttime was so magical!\" Felix said happily.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/3/Page-5.jpg"
+        },
+        {
+          "page_number": 6,
+          "text": "Felix yawned a big yawn. \"Thank you, Ollie. Nighttime isn't scary - it's beautiful!\" Back in his cozy den, Felix fell asleep under the stars, dreaming happy dreams.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/3/Page-6.jpg"
         }
       ]
     }
