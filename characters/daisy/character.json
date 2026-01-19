@@ -2,7 +2,7 @@
     "id": "daisy",
     "name": "Daisy",
     "display_name": "Daisy",
-    "version": "1.0.20",
+    "version": "1.0.21",
     "sprite_prefix": "daisydeer",
     "description": "A gentle deer who loves flowers and nature",
     "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/outfits.json",
@@ -16,13 +16,13 @@
         {
             "name": "leftPaw",
             "z_position": 2.5,
-            "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/paw-left.png",
+            "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/left-paw.png",
             "scale": 0.9
         },
         {
             "name": "rightPaw",
             "z_position": 2.5,
-            "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/paw-right.png",
+            "image": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/right-paw.png",
             "scale": 0.9
         },
         {
@@ -36,8 +36,8 @@
         {
             "id": "default",
             "name": "Default",
-            "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/environments/default/background.png",
-            "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/environments/default/foreground.png"
+            "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/background.png",
+            "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/foreground.png"
         }
     ],
     "expressions": {
