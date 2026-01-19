@@ -1,6 +1,6 @@
 {
   "character_id": "felix",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "outfits": [
     {
       "id": "body_none_01",
@@ -33,6 +33,10 @@
         "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/raincoat/head.png",
         "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/raincoat/paw-left.png",
         "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/raincoat/paw-right.png"
+      },
+      "environment": {
+        "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/raincoat/background.png",
+        "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/raincoat/foreground.png"
       }
     },
     {
@@ -65,6 +69,10 @@
         "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/prince/head.png",
         "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/prince/paw-left.png",
         "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/prince/paw-right.png"
+      },
+      "environment": {
+        "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/prince/background.png",
+        "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/prince/foreground.png"
       }
     }
   ]
