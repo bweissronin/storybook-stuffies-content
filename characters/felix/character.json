@@ -42,8 +42,8 @@
     {
       "id": "default",
       "name": "Default",
-      "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/environments/default/background.png",
-      "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/environments/default/foreground.png"
+      "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/background.png",
+      "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/foreground.png"
     }
   ],
   "expressions": {

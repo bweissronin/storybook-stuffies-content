@@ -15,6 +15,10 @@
         "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/paw-left.png",
         "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/paw-right.png",
         "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/head.png"
+      },
+      "environment": {
+        "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/background.png",
+        "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/outfits/none/foreground.png"
       }
     },
     {
