@@ -1,6 +1,6 @@
 {
-"version": "1.0.17",
-  "last_updated": "2026-01-16T16:55:00Z",
+  "version": "1.0.18",
+  "last_updated": "2026-01-18T00:00:00Z",
   "min_app_version": "1.0.1",
   "characters": [
     {
@@ -9,25 +9,25 @@
       "display_name": "Felix",
       "collection": "woodland_critters",
       "version": "1.0.17",
-      "is_built_in": true,
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/stories.json",
       "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/thumbnail.png",
       "requires_purchase": false,
-      "is_free": true
+      "is_free": true,
+      "show_in_shop": true
     },
     {
       "id": "daisy",
       "name": "Daisy",
       "display_name": "Daisy",
       "collection": "woodland_critters",
-      "version": "1.0.9", 
-      "is_built_in": true,
+      "version": "1.0.9",
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/stories.json",
       "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/thumbnail.png",
       "requires_purchase": false,
-      "is_free": true
+      "is_free": true,
+      "show_in_shop": true
     }
   ]
 }
