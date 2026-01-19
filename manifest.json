@@ -1,5 +1,5 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "last_updated": "2026-01-18T00:00:00Z",
   "min_app_version": "1.0.1",
   "characters": [
@@ -8,7 +8,7 @@
       "name": "Felix",
       "display_name": "Felix",
       "collection": "woodland_critters",
-      "version": "1.0.17",
+      "version": "1.0.20",
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/stories.json",
       "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/thumbnail.png",
@@ -21,7 +21,7 @@
       "name": "Daisy",
       "display_name": "Daisy",
       "collection": "woodland_critters",
-      "version": "1.0.19",
+      "version": "1.0.20",
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/stories.json",
       "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/thumbnail.png",

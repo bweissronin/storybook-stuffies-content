@@ -1,6 +1,6 @@
 {
   "character_id": "daisy",
-"version": "1.0.19",
+  "version": "1.0.20",
   "outfits": [
     {
       "id": "body_none_01",
@@ -14,6 +14,10 @@
         "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/paw-left.png",
         "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/paw-right.png",
         "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/head.png"
+      },
+      "environment": {
+        "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/background.png",
+        "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/foreground.png"
       }
     },
     {
