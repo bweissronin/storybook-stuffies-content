@@ -8,6 +8,7 @@
       "category": "body",
       "rarity": "common",
       "description": "",
+      "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/button.png",
       "layers": {
         "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/tail.png",
         "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/body.png",
@@ -24,7 +25,7 @@
       "id": "body_garden_01",
       "name": "Garden",
       "category": "body",
-      "rarity": "rare",
+      "rarity": "common",
       "description": "Beautiful garden outfit for Daisy - elegant dress without paws",
       "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/button.png",
       "layers": {
