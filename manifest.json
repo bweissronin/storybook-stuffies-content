@@ -1,5 +1,5 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "last_updated": "2026-01-18T00:00:00Z",
   "min_app_version": "1.0.1",
   "characters": [
@@ -21,7 +21,7 @@
       "id": "daisy",
       "name": "Daisy",
       "display_name": "Daisy",
-      "sprite_prefix": "daisy",
+      "sprite_prefix": "daisydeer",
       "collection": "woodland_critters",
       "version": "1.0.20",
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/character.json",
