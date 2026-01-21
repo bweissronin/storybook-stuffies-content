@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "last_updated": "2026-01-18T00:00:00Z",
   "min_app_version": "1.0.1",
   "characters": [
@@ -9,7 +9,7 @@
       "display_name": "Felix",
       "sprite_prefix": "felix",
       "collection": "woodland_critters",
-      "version": "1.0.22",
+      "version": "1.0.23",
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/stories.json",
       "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/thumbnail.png",

@@ -1,6 +1,6 @@
 {
   "character_id": "felix",
-"version": "1.0.21",
+"version": "1.0.22",
   "stories": [
     {
       "id": "felixes_first_day",
@@ -119,6 +119,46 @@
           "page_number": 6,
           "text": "Felix yawned a big yawn. \"Thank you, Ollie. Nighttime isn't scary - it's beautiful!\" Back in his cozy den, Felix fell asleep under the stars, dreaming happy dreams.",
           "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/3/Page-6.jpg"
+        }
+      ]
+    },
+    {
+      "id": "felixes_goldencrown",
+      "title": "Felix's Golden Crown",
+      "episode": 4,
+      "is_unlocked": true,
+      "outfit_id": "body_prince_01",
+      "total_pages": 6,
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "One sunny morning, Felix found something shining in the forest - a golden crown caught in the branches! \"Wow!\" he said. \"I must be Prince of the Forest now!\" He put on the crown and felt very important.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/4/Page-1.jpg"
+        },
+        {
+          "page_number": 2,
+          "text": "Felix walked through the forest wearing his crown. \"Bring me acorns!\" he told the squirrels. But they just looked at him and ran away. \"Clean this path!\" he said to the rabbits. They hopped away too. Being a prince wasn't working the way Felix thought it would.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/4/Page-2.jpg"
+        },
+        {
+          "page_number": 3,
+          "text": "Just then, Mama Bird flew down looking worried. \"Prince Felix, please help! One of my eggs rolled away from the nest and I can't find it. I promised to keep all my babies safe. Will you help me?\" Felix saw how scared she looked. \"Yes,\" he said. \"I promise I'll help you.\"",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/4/Page-3.jpg"
+        },
+        {
+          "page_number": 4,
+          "text": "Felix knew he needed help to search. He found the squirrels. \"I'm sorry I was bossy,\" he said. \"Will you help me search the treetops? Please?\" The squirrels smiled and nodded. Then Felix found the rabbits. \"I'm sorry I wasn't kind. Will you help search the ground? A baby bird needs us.\" The rabbits hopped right over to help.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/4/Page-4.jpg"
+        },
+        {
+          "page_number": 5,
+          "text": "Everyone searched together! The squirrels looked high in the branches. The rabbits sniffed through the grass and leaves. Felix checked carefully around fallen logs and bushes. Even though they searched and searched, Felix kept his promise. \"We can do this together!\" he said bravely. Then Bunny's nose wiggled - \"I smell something!\"",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/4/Page-5.jpg"
+        },
+        {
+          "page_number": 6,
+          "text": "There, nestled in the soft grass, was the missing egg! Felix carefully picked it up while Bunny cleared the path. Together they brought the egg safely back to the nest. Mama Bird smiled with happy tears. \"Thank you for keeping your promise, Felix.\" The other animals gathered around. \"You're a true prince,\" said the squirrels and rabbits. \"Not because of your crown, but because you helped us when we needed you.\" Felix's crown sparkled in the afternoon sun. He had learned that real princes keep their promises and help others.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/assets/storybook/4/Page-6.jpg"
         }
       ]
     }
