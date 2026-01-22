@@ -1,5 +1,5 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "last_updated": "2026-01-18T00:00:00Z",
   "min_app_version": "1.0.1",
   "characters": [
@@ -28,7 +28,7 @@
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/stories.json",
       "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/thumbnail.png",
       "requires_purchase": false,
-      "is_free": false,
+      "is_free": true,
       "show_in_shop": true
     }
   ]
