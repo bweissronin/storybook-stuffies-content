@@ -93,6 +93,52 @@
           "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/2/Page-6.mp3"
         }
       ]
+    },
+    {
+      "id": "a_bee_in_the_garden",
+      "title": "Daisy and the Busy Bees",
+      "episode": 3,
+      "is_unlocked": true,
+      "outfit_id": "body_bee_01",
+      "total_pages": 6,
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "Daisy's vegetable garden was growing beautifully! But she noticed something curious. Friendly bees kept buzzing from plant to plant. \"What are you doing, little bees?\" she wondered.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-1.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-1.mp3"
+        },
+        {
+          "page_number": 2,
+          "text": "Daisy watched closely. The bees landed on her tomato flowers and wiggled around. When they flew away, yellow pollen dust stuck to their fuzzy bodies!",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-2.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-2.mp3"
+        },
+        {
+          "page_number": 3,
+          "text": "The bees flew to another tomato flower. The pollen from their fuzzy bodies brushed onto the new flower. \"Oh!\" said Daisy. \"You're moving the pollen!\"",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-3.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-3.mp3"
+        },
+        {
+          "page_number": 4,
+          "text": "Daisy remembered - her flowers needed pollen to grow into vegetables! \"The bees are helping my garden grow!\" she realized. \"That's why they visit so many flowers.\"",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-4.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-4.mp3"
+        },
+        {
+          "page_number": 5,
+          "text": "Daisy wanted to thank the bees. She planted extra flowers around her vegetable garden - flowers full of sweet nectar for the bees to enjoy.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-5.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-5.mp3"
+        },
+        {
+          "page_number": 6,
+          "text": "Now bees buzzed happily between the vegetables and flowers. Daisy smiled. \"We help each other! The bees help my vegetables grow, and my flowers help feed the bees. We're a team!\"",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-6.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-6.mp3"
+        }
+      ]
     }
   ]
 }
