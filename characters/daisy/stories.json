@@ -139,6 +139,52 @@
           "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/3/Page-6.mp3"
         }
       ]
+    },
+    {
+      "id": "a_ladybug_in_the_garden",
+      "title": "Daisy and the Ladybugs",
+      "episode": 4,
+      "is_unlocked": true,
+      "outfit_id": "body_lady_01",
+      "total_pages": 6,
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "Daisy noticed tiny green bugs on her vegetable leaves. \"Oh no! These aphids are eating my plants!\" she worried.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-1.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-1.mp3"
+        },
+        {
+          "page_number": 2,
+          "text": "Then she saw something red and spotted - ladybugs! They landed on the leaves near the aphids. \"Hello, little ladybugs,\" Daisy said.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-2.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-2.mp3"
+        },
+        {
+          "page_number": 3,
+          "text": "Daisy watched closely. The ladybugs were eating the aphids! \"You're protecting my plants!\" she realized.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-3.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-3.mp3"
+        },
+        {
+          "page_number": 4,
+          "text": "Daisy learned that ladybugs love to eat the bugs that harm gardens. \"You're my garden helpers!\" she said happily.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-4.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-4.mp3"
+        },
+        {
+          "page_number": 5,
+          "text": "Daisy planted extra flowers that ladybugs like. Soon more ladybugs came to live in her garden.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-5.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-5.mp3"
+        },
+        {
+          "page_number": 6,
+          "text": "Now Daisy's vegetables grew healthy and strong. \"Some bugs help, and some bugs harm. Ladybugs are my friends who keep my garden safe!\"",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-6.jpg",
+          "audio_url" : "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/storybook/4/Page-6.mp3"
+        }
+      ]
     }
   ]
 }
