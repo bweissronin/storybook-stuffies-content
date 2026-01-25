@@ -58,6 +58,25 @@
         "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/bee/background.png",
         "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/bee/foreground.png"
       }
+    },
+    {
+      "id": "body_ladybug_01",
+      "name": "Ladybug",
+      "category": "body",
+      "rarity": "common",
+      "description": "Beautiful ladybug outfit for Daisy",
+      "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/ladybug/button.png",
+      "layers": {
+        "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/ladybug/body.png",
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/ladybug/head.png",
+        "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/ladybug/left-paw.png",
+        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/ladybug/right-paw.png",
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/ladybug/tail.png"
+      },
+      "environment": {
+        "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/ladybug/background.png",
+        "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/ladybug/foreground.png"
+      }
     }
   ]
 }
