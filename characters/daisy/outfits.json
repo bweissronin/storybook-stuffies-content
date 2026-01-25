@@ -13,7 +13,8 @@
         "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/body.png",
         "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/left-paw.png",
         "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/right-paw.png",
-        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/head.png"
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/head.png",
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/tail.png"
       },
       "environment": {
         "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/none/background.png",
@@ -25,17 +26,37 @@
       "name": "Garden",
       "category": "body",
       "rarity": "common",
-      "description": "Beautiful garden outfit for Daisy - elegant dress without paws",
+      "description": "Beautiful garden outfit for Daisy",
       "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/button.png",
       "layers": {
         "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/body.png",
         "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/head.png",
         "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/left-paw.png",
-        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/right-paw.png"
+        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/right-paw.png",
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/tail.png"
       },
       "environment": {
         "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/background.png",
         "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/garden/foreground.png"
+      }
+    },
+    {
+      "id": "body_bee_01",
+      "name": "Bee",
+      "category": "body",
+      "rarity": "common",
+      "description": "Beautiful bee outfit for Daisy",
+      "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/bee/button.png",
+      "layers": {
+        "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/bee/body.png",
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/bee/head.png",
+        "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/bee/left-paw.png",
+        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/bee/right-paw.png",
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/bee/tail.png"
+      },
+      "environment": {
+        "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/bee/background.png",
+        "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/assets/outfits/bee/foreground.png"
       }
     }
   ]
