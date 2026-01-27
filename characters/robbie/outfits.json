@@ -1,0 +1,25 @@
+{
+  "character_id": "robbie",
+  "version": "1.0.26",
+  "outfits": [
+    {
+      "id": "body_none_01",
+      "name": "None",
+      "category": "body",
+      "rarity": "common",
+      "description": "",
+      "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/none/button.png",
+      "layers": {
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/none/tail.png",
+        "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/none/body.png",
+        "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/none/paw-left.png",
+        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/none/paw-right.png",
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/none/head.png"
+      },
+      "environment": {
+        "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/none/background.png",
+        "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/none/foreground.png"
+      }
+    }
+  ]
+}

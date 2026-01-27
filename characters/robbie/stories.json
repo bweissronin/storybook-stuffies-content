@@ -1,0 +1,52 @@
+{
+  "character_id": "robbie",
+"version": "1.0.26",
+  "stories": [
+    {
+      "id": "robbies_first_day",
+      "title": "Robbie's First Day",
+      "episode": 1,
+      "is_unlocked": true,
+      "outfit_id": "body_none_01",
+      "total_pages": 6,
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-1.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-1.mp3"
+        },
+        {
+          "page_number": 2,
+          "text": "",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-2.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-2.mp3"
+        },
+        {
+          "page_number": 3,
+          "text": "",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-3.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-3.mp3"
+        },
+        {
+          "page_number": 4,
+          "text": "",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-4.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-4.mp3"
+        },
+        {
+          "page_number": 5,
+          "text": "",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-5.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-5.mp3"
+        },
+        {
+          "page_number": 6,
+          "text": "",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-6.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-6.mp3"
+        }
+      ]
+    }
+  ]
+}

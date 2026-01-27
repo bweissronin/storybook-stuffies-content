@@ -30,6 +30,20 @@
       "requires_purchase": false,
       "is_free": true,
       "show_in_shop": true
+    },
+    {
+      "id": "robbie",
+      "name": "Robbie",
+      "display_name": "Robbie",
+      "sprite_prefix": "robbieraccoon",
+      "collection": "woodland_critters",
+      "version": "1.0.26",
+      "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/character.json",
+      "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/stories.json",
+      "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/thumbnail.png",
+      "requires_purchase": false,
+      "is_free": true,
+      "show_in_shop": true
     }
   ]
 }
