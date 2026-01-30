@@ -20,6 +20,25 @@
         "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/none/background.png",
         "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/none/foreground.png"
       }
+    },
+    {
+      "id": "body_detective_01",
+      "name": "Detective",
+      "category": "body",
+      "rarity": "common",
+      "description": "",
+      "button_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/detective/button.png",
+      "layers": {
+        "tail": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/detective/tail.png",
+        "body": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/detective/body.png",
+        "leftPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/detective/paw-left.png",
+        "rightPaw": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/detective/paw-right.png",
+        "head": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/detective/head.png"
+      },
+      "environment": {
+        "background": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/detective/background.png",
+        "foreground": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/outfits/detective/foreground.png"
+      }
     }
   ]
 }
