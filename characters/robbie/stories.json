@@ -47,6 +47,52 @@
           "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/1/Page-6.mp3"
         }
       ]
+    },
+    {
+      "id": "robbie_the_detective",
+      "title": "Robbie and the Missing Acorns",
+      "episode": 2,
+      "is_unlocked": true,
+      "outfit_id": "body_detective_01",
+      "total_pages": 6,
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "One autumn morning, all the acorns stored for winter had disappeared! \"Someone took them!\" cried Squirrel. \"No, I bet they fell!\" said Mouse. Everyone was upset and confused.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-1.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-1.mp3"
+        },
+        {
+          "page_number": 2,
+          "text": "Robbie put on his special detective vest with his magnifying glass and notepad. \"Let's not guess,\" he said calmly. \"Let's look carefully and find out what really happened.\"",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-2.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-2.mp3"
+        },
+        {
+          "page_number": 3,
+          "text": "Robbie examined the empty stump with his magnifying glass. He saw tiny scratches, some broken twigs, and small tracks leading away. \"Interesting!\" he said, writing notes.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-3.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-3.mp3"
+        },
+        {
+          "page_number": 4,
+          "text": "Following the tracks carefully, Robbie led his friends through the forest. The path went down a hill, around a big rock, and right to... a fallen tree! The tree had rolled down the hill.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-4.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-4.mp3"
+        },
+        {
+          "page_number": 5,
+          "text": "\"The tree must have fallen during the storm last night!\" said Robbie. \"When it rolled down the hill, it carried all the acorns with it. Nobody took them - they just went for a ride!\"",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-5.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-5.mp3"
+        },
+        {
+          "page_number": 6,
+          "text": "Everyone worked together to gather the acorns back up. \"Thank you, Robbie!\" said Squirrel. \"You looked carefully instead of guessing. That's how we found the real answer!\" Robbie smiled proudly.",
+          "image_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-6.jpg",
+          "audio_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/assets/storybook/2/Page-6.mp3"
+        }
+      ]
     }
   ]
 }
