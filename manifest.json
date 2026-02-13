@@ -1,5 +1,5 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.0",
   "last_updated": "2026-01-18T00:00:00Z",
   "min_app_version": "1.0.1",
   "characters": [
@@ -9,7 +9,7 @@
       "display_name": "Felix",
       "sprite_prefix": "felix_fox",
       "collection": "woodland_critters",
-      "version": "1.0.26",
+      "version": "1.0.0",
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/stories.json",
       "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/felix/thumbnail.png",
@@ -23,7 +23,7 @@
       "display_name": "Daisy",
       "sprite_prefix": "daisy_deer",
       "collection": "woodland_critters",
-      "version": "1.0.26",
+      "version": "1.0.0",
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/stories.json",
       "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/daisy/thumbnail.png",
@@ -37,7 +37,7 @@
       "display_name": "Robbie",
       "sprite_prefix": "robbie_raccoon",
       "collection": "woodland_critters",
-      "version": "1.0.26",
+      "version": "1.0.0",
       "character_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/character.json",
       "stories_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/stories.json",
       "thumbnail_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/thumbnail.png",

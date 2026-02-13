@@ -2,7 +2,7 @@
   "id": "robbie",
   "name": "Robbie",
   "display_name": "Robbie",
-  "version": "1.0.26",
+  "version": "1.0.0",
   "sprite_prefix": "robbie_raccoon",
   "description": "A sweet raccoon with a never-ending curiosity",
   "outfits_url": "https://bweissronin.github.io/storybook-stuffies-content/characters/robbie/outfits.json",
